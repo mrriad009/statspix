@@ -1,0 +1,2 @@
+# statspix
+statics of group 
